@@ -1,0 +1,8 @@
+v1:
+Control old controlpanel with gpio's and relays instead of old buttons.
+Make simple webpage to use for control
+
+v2:
+Make webpage nicer
+Add sensors to watertanks to check levels
+Add voltage meter to check batterylevel
